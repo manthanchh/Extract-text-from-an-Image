@@ -14,6 +14,10 @@ Input Image :
 
 ![1_AtxxyM5bg2WEGh0rySAMXQ](https://user-images.githubusercontent.com/67840402/87351209-bd3e2200-c576-11ea-9d69-85842ae4b6ac.jpeg)
 
+Output :
+
+![Capture](https://user-images.githubusercontent.com/67840402/87351845-a8ae5980-c577-11ea-9f64-1b0744c3a3c5.PNG)
+
 
 Reference : https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
 
